@@ -1,4 +1,5 @@
 import Sidebar from './components/Sidebar'
+import DocumentView from './components/DocumentView'
 
 function App() {
   return (
